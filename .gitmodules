@@ -1,0 +1,18 @@
+[submodule "cortext.cpp"]
+	path = cortext.cpp
+	url = https://github.com/augmem/cortext.cpp.git
+[submodule "cortext.py"]
+	path = cortext.py
+	url = https://github.com/augmem/cortext.py.git
+[submodule "cortext.ts"]
+	path = cortext.ts
+	url = https://github.com/augmem/cortext.ts.git
+[submodule "cortext.go"]
+	path = cortext.go
+	url = https://github.com/augmem/cortext.go.git
+[submodule "cortext.dart"]
+	path = cortext.dart
+	url = https://github.com/augmem/cortext.dart.git
+[submodule "cortext.wasm"]
+	path = cortext.wasm
+	url = https://github.com/augmem/cortext.wasm.git
